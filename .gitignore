@@ -17,7 +17,6 @@ venv/
 .vscode/
 
 # Data files and artifacts
-dataco_raw/
 preprocessing/dataco_preprocessing/
 preprocessing/dataco_preprocessing_artifacts/
 
